@@ -6,6 +6,6 @@ Exercism's C Track
 [exercism.io/profiles/joshuaswickirl](https://exercism.io/profiles/joshuaswickirl)
 
 
-Core Exercises (0/24)
+Core Exercises (1/24)
 ---------------------
-
+1. [Hello World](hello-world)
